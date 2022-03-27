@@ -72,11 +72,11 @@ _Lab 4: Isotropic Linear Elastic Stress Concentration
 _  
 Handout ([PDF]({{< baseurl >}}/resources/lab_4_s04))  
   
-Plot ([M](/courses/mechanical-engineering/2-002-mechanics-and-materials-ii-spring-2004/labs/PDEPlotCut.m))  
+Plot ([M]({{< baseurl >}}/resources/pdeplotcut))  
   
-Draw ([M](/courses/mechanical-engineering/2-002-mechanics-and-materials-ii-spring-2004/labs/PDESpecDraw.m))  
+Draw ([M]({{< baseurl >}}/resources/pdespecdraw))  
   
-PDE Tool ([M](/courses/mechanical-engineering/2-002-mechanics-and-materials-ii-spring-2004/labs/pdetool.m))
+PDE Tool ([M]({{< baseurl >}}/resources/pdetool))
 {{< tdclose >}}
 
 {{< trclose >}}

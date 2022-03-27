@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: aacc981b-a167-de94-2676-9f9acac3c353
 resourcetype: Document
 title: frac_lab_s04.pdf
 uid: eb7caf73-175c-e242-8509-4cfc3b1dd4df

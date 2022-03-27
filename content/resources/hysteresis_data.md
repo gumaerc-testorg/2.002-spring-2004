@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: aacc981b-a167-de94-2676-9f9acac3c353
 resourcetype: Other
 title: hysteresis_data.xls
 uid: a49ce953-99ae-e64c-9ea0-63818af29dba
