@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program file for Laboratory Module 4.
-file: /media/courses/2-002-mechanics-and-materials-ii-spring-2004/9f418e2c5f84dca76a28483e8446367f_PDEPlotCut.m
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/9f418e2c5f84dca76a28483e8446367f_PDEPlotCut.m
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: PDEPlotCut.m
 uid: 9f418e2c-5f84-dca7-6a28-483e8446367f
 ---
+Program file for Laboratory Module 4.
+

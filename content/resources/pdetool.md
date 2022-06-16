@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program file for Laboratory Module 4.
-file: /media/courses/2-002-mechanics-and-materials-ii-spring-2004/91158aa242844b3bca89040fce9b3f1f_pdetool.m
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/91158aa242844b3bca89040fce9b3f1f_pdetool.m
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: pdetool.m
 uid: 91158aa2-4284-4b3b-ca89-040fce9b3f1f
 ---
+Program file for Laboratory Module 4.
+

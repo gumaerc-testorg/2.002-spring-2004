@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program file for Laboratory Module 4.
-file: /media/courses/2-002-mechanics-and-materials-ii-spring-2004/e30a10017c145b425fb4788b19841c97_PDESpecDraw.m
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/e30a10017c145b425fb4788b19841c97_PDESpecDraw.m
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: PDESpecDraw.m
 uid: e30a1001-7c14-5b42-5fb4-788b19841c97
 ---
+Program file for Laboratory Module 4.
+
