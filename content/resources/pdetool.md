@@ -5,6 +5,7 @@ file: /courses/2-002-mechanics-and-materials-ii-spring-2004/91158aa242844b3bca89
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pdetool.m
 uid: 91158aa2-4284-4b3b-ca89-040fce9b3f1f
 ---
 Program file for Laboratory Module 4.
-

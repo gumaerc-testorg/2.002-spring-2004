@@ -6,6 +6,7 @@ file: /courses/2-002-mechanics-and-materials-ii-spring-2004/1a8c0b0136a76426c7a1
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This handout contains diagrams, a data table, and supplementary notes for Laboratory Module 1.
-

@@ -5,6 +5,7 @@ file: /courses/2-002-mechanics-and-materials-ii-spring-2004/0a88bade3c3c62d26cd2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

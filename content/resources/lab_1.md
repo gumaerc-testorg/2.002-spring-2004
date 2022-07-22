@@ -13,6 +13,7 @@ file: /courses/2-002-mechanics-and-materials-ii-spring-2004/ada113f8904250a71dee
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -28,4 +29,3 @@ video_metadata:
 The term project will serve as a capstone to the lab work performed in this class. Each lab section is to
 be divided into groups of between three and ?ve students. Each group is expected to choose one of the
 projects listed subsequently (or to propose and receive approval for an alternative project); however, no two groups in the same lab section should choose the same project.
-
