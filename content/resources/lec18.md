@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of topics covered in the lecture.
 file: /courses/2-002-mechanics-and-materials-ii-spring-2004/4a148399d500c196eac445974a77e98f_lec18.pdf
+file_size: 985747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

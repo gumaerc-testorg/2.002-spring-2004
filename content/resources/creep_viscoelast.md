@@ -3,6 +3,7 @@ content_type: resource
 description: Laboratory Module 2. This handout contains lab objectives, notes, tasks,
   and specific questions to answer.
 file: /courses/2-002-mechanics-and-materials-ii-spring-2004/0278c01018c4f2281214a661d9c95c32_creep_viscoelast.pdf
+file_size: 170709
 file_type: application/pdf
 learning_resource_types:
 - Labs
