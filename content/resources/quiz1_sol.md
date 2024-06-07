@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice quiz solution.
 file: /courses/2-002-mechanics-and-materials-ii-spring-2004/18ab35a40d0eba555bef33dc8cffa42b_quiz1_sol.pdf
+file_size: 181645
 file_type: application/pdf
 learning_resource_types:
 - Exams

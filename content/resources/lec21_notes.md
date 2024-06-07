@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary lecture notes.
 file: /courses/2-002-mechanics-and-materials-ii-spring-2004/db45866e2fc0cf164d96828936748e8f_lec21_notes.pdf
+file_size: 517997
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
