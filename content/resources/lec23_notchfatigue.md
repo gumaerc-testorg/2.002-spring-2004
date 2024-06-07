@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for lecture.
 file: /courses/2-002-mechanics-and-materials-ii-spring-2004/378b1df291bdeaa6da20039c24ecfdb0_lec23_notchfatigue.m
+file_size: 2120
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

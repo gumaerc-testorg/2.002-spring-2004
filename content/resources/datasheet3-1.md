@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-002-mechanics-and-materials-ii-spring-2004/fdc389bdfbd74a2daa98dc1284c4a050_datasheet3.jpg
+file_size: 169104
 file_type: image/jpeg
 image_metadata:
   caption: ''

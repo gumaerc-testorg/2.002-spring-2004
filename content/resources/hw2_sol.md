@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set solution.
 file: /courses/2-002-mechanics-and-materials-ii-spring-2004/7c9862b70e249b0995ad3804a33425da_hw2_sol.pdf
+file_size: 270815
 file_type: application/pdf
 learning_resource_types:
 - Assignments
