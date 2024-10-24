@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory Module 3. This handout contains lab objectives, notes, tasks,
   and specific questions to answer.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/00cf4c30d2a4c4573f78f2950809e765_2002_lab_sheet.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/00cf4c30d2a4c4573f78f2950809e765_2002_lab_sheet.pdf
 file_size: 481968
 file_type: application/pdf
 learning_resource_types:
