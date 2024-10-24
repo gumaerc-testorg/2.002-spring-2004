@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data spreadsheet for Laboratory Module 5.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/f7a94a33a149667aadd9df5d5a9160e7_data_lab5fall03.xls
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/f7a94a33a149667aadd9df5d5a9160e7_data_lab5fall03.xls
 file_size: 32256
 file_type: application/msword
 learning_resource_types:

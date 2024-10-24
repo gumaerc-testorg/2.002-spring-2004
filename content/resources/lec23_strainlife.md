@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for lecture.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/1537edde2a01253abff5dc553d6289e9_lec23_strainlife.m
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/1537edde2a01253abff5dc553d6289e9_lec23_strainlife.m
 file_size: 1502
 file_type: text/plain
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory Module 6. This handout contains lab objectives, notes, tasks,
   and specific questions to answer.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/eb7caf73175ce24285094cfc3b1dd4df_frac_lab_s04.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/eb7caf73175ce24285094cfc3b1dd4df_frac_lab_s04.pdf
 file_size: 201704
 file_type: application/pdf
 learning_resource_types:

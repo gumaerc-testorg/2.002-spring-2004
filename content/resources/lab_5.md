@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a spreadsheet for Laboratory Module 5.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/0fcb6ce9c0ff1970f185eb017781d77a_lab_5.xls
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/0fcb6ce9c0ff1970f185eb017781d77a_lab_5.xls
 file_size: 803840
 file_type: application/msword
 learning_resource_types:
