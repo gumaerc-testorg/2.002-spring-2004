@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a spreadsheet for Laboratory Module 2.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/16bf31257474dd850d51759f3927568c_relaxation_ldpe.xls
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/16bf31257474dd850d51759f3927568c_relaxation_ldpe.xls
 file_size: 20992
 file_type: application/msword
 learning_resource_types:

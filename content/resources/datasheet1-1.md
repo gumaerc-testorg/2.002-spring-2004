@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/9e8a55d020bed89f633d6db23df01ef8_datasheet1.jpg
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/9e8a55d020bed89f633d6db23df01ef8_datasheet1.jpg
 file_size: 217098
 file_type: image/jpeg
 image_metadata:

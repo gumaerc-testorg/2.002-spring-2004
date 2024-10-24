@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program file for Laboratory Module 4.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/e30a10017c145b425fb4788b19841c97_PDESpecDraw.m
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/e30a10017c145b425fb4788b19841c97_PDESpecDraw.m
 file_size: 7098
 file_type: text/plain
 learning_resource_types:

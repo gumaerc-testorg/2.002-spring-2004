@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/290e6a608f65ca33bfb52bdb61df9a68_ra6.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/290e6a608f65ca33bfb52bdb61df9a68_ra6.pdf
 file_size: 16127
 file_type: application/pdf
 learning_resource_types:
