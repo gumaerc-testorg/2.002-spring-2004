@@ -9,7 +9,7 @@ description: 'The term project will serve as a capstone to the lab work performe
   projects listed subsequently (or to propose and receive approval for an alternative
   project); however, no two groups in the same lab section should choose the same
   project.'
-file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/ada113f8904250a71dee71f0fdd8c20b_lab_1.pdf
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/ada113f8904250a71dee71f0fdd8c20b_lab_1.pdf
 file_size: 162276
 file_type: application/pdf
 learning_resource_types:

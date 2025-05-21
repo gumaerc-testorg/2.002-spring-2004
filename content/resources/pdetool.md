@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program file for Laboratory Module 4.
-file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/91158aa242844b3bca89040fce9b3f1f_pdetool.m
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/91158aa242844b3bca89040fce9b3f1f_pdetool.m
 file_size: 176251
 file_type: text/plain
 learning_resource_types:

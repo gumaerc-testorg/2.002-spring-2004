@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a graph and data table for Laboratory Module 1.
-file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/8c604d17931eec9404fcfa25794dceaa_datasheet1.pdf
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/8c604d17931eec9404fcfa25794dceaa_datasheet1.pdf
 file_size: 136321
 file_type: application/pdf
 learning_resource_types:
