@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary lecture notes.
-file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/14bb2a5b56838e5c31f375cf02658392_lec20_notes.pdf
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/14bb2a5b56838e5c31f375cf02658392_lec20_notes.pdf
 file_size: 269996
 file_type: application/pdf
 learning_resource_types:
