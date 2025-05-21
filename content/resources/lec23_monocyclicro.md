@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for lecture.
-file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/12308cd1c96b1e02dbb5407973faff5b_lec23_monocyclicro.m
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/12308cd1c96b1e02dbb5407973faff5b_lec23_monocyclicro.m
 file_size: 6221
 file_type: text/plain
 learning_resource_types:
