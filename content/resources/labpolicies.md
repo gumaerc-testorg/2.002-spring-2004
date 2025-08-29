@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/0a88bade3c3c62d26cd24e31d9bad7b0_labpolicies.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/0a88bade3c3c62d26cd24e31d9bad7b0_labpolicies.pdf
 file_size: 65866
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

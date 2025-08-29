@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice quiz.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/198e2b56255edc72a37146e5505141ec_practice_quiz1.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/198e2b56255edc72a37146e5505141ec_practice_quiz1.pdf
 file_size: 111689
 file_type: application/pdf
 learning_resource_types:

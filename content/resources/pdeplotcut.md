@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Program file for Laboratory Module 4.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/9f418e2c5f84dca76a28483e8446367f_PDEPlotCut.m
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/9f418e2c5f84dca76a28483e8446367f_PDEPlotCut.m
 file_size: 11638
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

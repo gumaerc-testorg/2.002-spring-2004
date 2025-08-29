@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This handout contains a data table for Laboratory Module 5.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/72ec0b83c9aa06de58cd94c68a2aac2c_sampledata.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/72ec0b83c9aa06de58cd94c68a2aac2c_sampledata.pdf
 file_size: 60037
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
