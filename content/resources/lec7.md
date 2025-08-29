@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of topics covered in the lecture.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/f7b561fbe8762ff73da9236e6c0fff73_lec7.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/f7b561fbe8762ff73da9236e6c0fff73_lec7.pdf
 file_size: 296142
 file_type: application/pdf
 learning_resource_types:

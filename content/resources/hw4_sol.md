@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solution.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/3e5869305d1d1576bf6f2cf6f0b909c5_hw4_sol.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/3e5869305d1d1576bf6f2cf6f0b909c5_hw4_sol.pdf
 file_size: 203480
 file_type: application/pdf
 learning_resource_types:

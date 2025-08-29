@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This handout contains a spreadsheet for Laboratory Module 2.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/a49ce95399aee64c9ea063818af29dba_hysteresis_data.xls
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/a49ce95399aee64c9ea063818af29dba_hysteresis_data.xls
 file_size: 1385472
 file_type: application/msword
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
