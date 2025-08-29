@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains an example problem from the lecture.
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/ceb955ca14dd8d8669a54d22cedfb338_lec22_ex_prob.pdf
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/ceb955ca14dd8d8669a54d22cedfb338_lec22_ex_prob.pdf
 file_size: 88791
 file_type: application/pdf
 learning_resource_types:

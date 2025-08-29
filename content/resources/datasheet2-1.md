@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-002-mechanics-and-materials-ii-spring-2004/82e56de8ecdc60da886549d4bcf32a94_datasheet2.jpg
+file: /ol-ocw-studio-app/courses/2-002-mechanics-and-materials-ii-spring-2004/82e56de8ecdc60da886549d4bcf32a94_datasheet2.jpg
 file_size: 409903
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
